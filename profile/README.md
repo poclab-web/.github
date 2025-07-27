@@ -12,8 +12,7 @@ aiming to accelerate the discovery and design of new molecules and materials thr
 
 ---
 
-## 📂 Featured Repositories
-- [streamlit-pyscf](https://github.com/poclab-web/streamlit-pyscf) – A Streamlit-based UI for PySCF
+## 📂 Repositories
 - [sphere_model](https://github.com/poclab-web/sphere_model) – Molecular structure visualization tools
 
 ---
