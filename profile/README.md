@@ -1,5 +1,11 @@
 # 🧪 PocLab – Chemistry × Informatics
 
+**POC** in PocLab stands for:
+
+- **Passion for Originality and Creativity (Why)** – our driving force  
+- **Proof of Concept (How)** – turning ideas into working methods  
+- **Physical Organic Chemistry (What)** – our scientific foundation  
+
 We are a research group working at the intersection of **Chemistry and Informatics**,  
 aiming to accelerate the discovery and design of new molecules and materials through data-driven approaches.
 
@@ -25,4 +31,4 @@ We welcome:
 ---
 
 ### Contact
-- Website: [https://poclab-web.github.io/homepage.github.io/](https://poclab-web.github.io/homepage.github.io/)
+- Website: [https://poclab-web.github.io/homepage/](https://poclab-web.github.io/homepage/)
