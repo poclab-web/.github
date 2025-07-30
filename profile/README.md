@@ -1,4 +1,4 @@
-# 🧪 PocLab – Chemistry × Informatics
+# 🧪 POCLab – Chemistry × Informatics
 
 **POC** in PocLab stands for:
 
