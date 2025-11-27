@@ -1,6 +1,7 @@
 # 🧪 POCLab (Gotoh Lab) – Chemistry × Informatics
 
 📍 Principal Investigator: Hiroaki Gotoh (Associate Professor)
+
 🏫 Yokohama National University, Japan
 
 **🧭 Mission** : **To advance innovative methodologies for molecular and reaction design.**
